@@ -3,7 +3,7 @@
 ## Objective
 Execute SQL basics in [sqliteonline](https://sqliteonline.com/)
   1. Table creation and population
-  2. Basic queries
+  1. Basic queries
 
 ## Datasets
 - SQL_table_creation.sql
