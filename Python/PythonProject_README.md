@@ -1,11 +1,12 @@
 # Exploratory Data Analysis
 ## Objective
-Analyze sales performance.
+Explore whether body mass differs across the three penguin species in the Palmer Penguins dataset. 
 ## Dataset
-Sales.csv
+[github: penguins.csv](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) 
 ## Tools
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 ## Findings
-Example: West region generated highest sales.
+Gentoo penguins were considerably heavier than Adelie and Chinstrap penguins.
