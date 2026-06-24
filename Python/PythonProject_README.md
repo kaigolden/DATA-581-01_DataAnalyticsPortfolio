@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Penguins Exploratory Data Analysis (EDA)
 ## Objective
 Explore whether body mass differs across the three penguin species in the Palmer Penguins dataset. 
 ## Dataset
