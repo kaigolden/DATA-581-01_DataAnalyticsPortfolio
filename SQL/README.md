@@ -1,7 +1,7 @@
 # SQL Projects
 
 ## Objective
-Execute basic SQL queries in [sqliteonline](https://sqliteonline.com/)
+Execute SQL basics in [sqliteonline](https://sqliteonline.com/)
 
 ## Datasets
 - SQL_table_creation.sql
