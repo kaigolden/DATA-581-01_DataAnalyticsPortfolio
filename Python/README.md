@@ -8,6 +8,7 @@ This project was an EDA of the Palmer Penquins dataset. Working in Python, I fra
 ### What is included
 - An audience-focused executive summary that translates the analysis purpose and findings into plain language.
 - Several data visualizations, each with its interpretation.
+- Creation and discussion of a misleading visualization.
 - A reflection covering the results and ethics of the analysis.
 - A discussion of further questions raised by the data and findings.
 
