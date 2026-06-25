@@ -11,6 +11,10 @@ The purpose of this project is to develop the skills needed to execute SQL basic
 - SQL_table_creation.sql
 - SQL_queries.sql
 
+## Tools
+- Python
+- SQL
+
 ## Steps
 1. Create table and populate it using the SQL_table_creation.sql file.
 2. Execute basic queries using the SQL_queries.sql file.
