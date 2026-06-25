@@ -15,7 +15,7 @@ This project was an EDA of the Palmer Penquins dataset. Working in Python, I fra
 ## Objective
 Explore whether body mass differs across the three penguin species in the penguins dataset. 
 ## Dataset
-[github: penguins.csv](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) 
+[Github: penguins.csv](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) 
 ## Tools
 - Python
 - Pandas
