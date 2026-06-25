@@ -3,6 +3,10 @@
 ## Objective
 Use HR Employees dataset to create various EDA visualizations.
 
+### What is included
+- HR Employees excel dataset
+- A link to a visualizations dashboard hosted by Tableau public
+
 ## Dataset
 HR_Employees.xlsx
 
