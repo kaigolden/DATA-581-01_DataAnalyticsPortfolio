@@ -1,7 +1,9 @@
 # SQL Projects
 
 ## Objective
-Execute SQL basics in [sqliteonline](https://sqliteonline.com/)
+The purpose of this project is to develop skills to execute SQL basics using [sqliteonline](https://sqliteonline.com/).
+
+### What is included
   1. Table creation and population
   1. Basic queries
 
