@@ -16,7 +16,7 @@ Below is a table of what's in the repository: it contains a link to each folder 
 
 | Project | Project Overview | Tools |
 | --- | --- | --- |
-| [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | desc of project | Python, Panda, Seaborn |
 | [Power BI](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI) | desc of project | Power BI App|
-| [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | desc of project | Tableau Desktop & Tableau Public |
+| [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | desc of project | Python, Panda, Seaborn |
 | [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | desc of project | SQL |
+| [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | desc of project | Tableau Desktop & Tableau Public |
