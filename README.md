@@ -2,24 +2,30 @@
 Portfolio of Data Analytics Projects using Python, Power BI, Tableau, SQL, and Data Storytelling
 
 # Kaili Golden
-Graduate Student in Data Analytics
+Graduate student in Gonzaga University's Master's in Data Science (MSDS) program. 
 
 ## Skills
 - Python
 - SQL
 - Power BI
 - Tableau
-- Data Visualization
+- Data Visualization and Data Storytelling
   
 ## Projects
+#### [brief overview of projects]
+
 ### Python EDA Project
-Link Here
+#### [folder desc]
+[folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python)
 
 ### Power BI Dashboard
-Link Here
+#### [folder desc]
+[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI)
 
 ### Tableau Dashboard
-Link Here
+#### [folder desc]
+[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau))
 
 ### SQL Project
-Link Here
+#### [folder desc]
+[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL)
