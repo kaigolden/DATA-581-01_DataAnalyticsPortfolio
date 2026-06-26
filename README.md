@@ -1,5 +1,5 @@
 # DS581_DataAnalyticsPortfolio
-Portfolio of Data Analytics Projects using Python, Power BI, Tableau, SQL, and Data Storytelling
+This repository is a portfolio of data analytics projects developed during one of my graduate-level courses in the Master's of Science in Data Science (MSDS) program at Gonzaga University. It uses Python, Power BI, Tableau, and SQL, and involves data visualization and data storytelling. Each project contains its own folder with its own data, code, and write up(s).
 
 # Kaili Golden
 Graduate student in Gonzaga University's Master's in Data Science (MSDS) program. 
@@ -11,21 +11,12 @@ Graduate student in Gonzaga University's Master's in Data Science (MSDS) program
 - Tableau
 - Data Visualization and Data Storytelling
   
-## Projects
-#### [brief overview of projects]
+# Projects Overview
+Below is a table of what's in the repository: it contains a link to each folder along with a description of each project's problem and approach.
 
-### Python EDA
-#### [folder desc]
-[folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python)
-
-### Power BI
-#### [folder desc]
-[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI)
-
-### Tableau
-#### [folder desc]
-[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau))
-
-### SQL Project
-#### [folder desc]
-[Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL)
+| Project | Project Overview | Tools |
+| --- | --- | --- |
+| [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | desc of project | Python, Panda, Seaborn |
+| [Power BI](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI) | desc of project | Power BI App|
+| [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | desc of project | Tableau Desktop & Tableau Public |
+| [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | desc of project | SQL |
