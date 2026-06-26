@@ -14,15 +14,15 @@ Graduate student in Gonzaga University's Master's in Data Science (MSDS) program
 ## Projects
 #### [brief overview of projects]
 
-### Python EDA Project
+### Python EDA
 #### [folder desc]
 [folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python)
 
-### Power BI Dashboard
+### Power BI
 #### [folder desc]
 [Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI)
 
-### Tableau Dashboard
+### Tableau
 #### [folder desc]
 [Folder link](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau))
 
