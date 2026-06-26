@@ -11,7 +11,7 @@ Graduate student in Gonzaga University's MSDS program.
 - Tableau
 - Data Visualization and Data Storytelling
   
-# Projects Overview
+# Projects
 Below is a table of what's in the repository: it contains a link to each folder along with a description of each project's problem and approach.
 
 | Project | Project Overview | Tools |
