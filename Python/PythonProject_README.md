@@ -12,12 +12,15 @@ This project was an EDA of the Palmer Penquins dataset. Working in Python, I fra
 
 ## Objective
 Explore whether body mass differs across the three penguin species in the penguins dataset. 
+
 ## Dataset
 [Github: penguins.csv](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv) 
+
 ## Tools
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+- 
 ## Findings
-Gentoo penguins were considerably heavier than Adelie and Chinstrap penguins.
+Gentoo penguins were considerably heavier than Adelie and Chinstrap penguins. Further EDA that combines different characteristic variables in the dataset is advised to provide better insight into the penguin species' differences and characterization.
