@@ -22,4 +22,4 @@ Explore whether body mass differs across the three penguin species in the pengui
 - Matplotlib
 - Seaborn
 ## Findings
-Gentoo penguins were considerably heavier than Adelie and Chinstrap penguins.
+Gentoo penguins were considerably heavier than Adelie and Chinstrap penguins. Further EDA that combines different characteristic variables in the dataset is advised to provide better insight into the penguin species' differences and characterization.
