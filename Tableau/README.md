@@ -7,6 +7,7 @@ Use HR Employees dataset to create various EDA visualizations.
 - HR Employees excel dataset
 - A dashboard image (.png)
 - A link to a visualizations dashboard on Tableau public
+- A dashboard storytelling
 
 ## Dataset
 HR_Employees.xlsx
