@@ -4,6 +4,9 @@ This repository is a portfolio of data analytics projects developed during one o
 # Kaili Golden
 Graduate student in Gonzaga University's MSDS program. 
 
+## Contact
+kgolden@zagmail.gonzaga.edu
+
 ## Skills
 - Python
 - SQL
@@ -20,6 +23,3 @@ Below is a table of what's in this repository: each row contains a link to each 
 | [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | Exploratory data analysis of the Palmer Penguins dataset, containing visualizations and a full technical report. | Python, Panda, Seaborn |
 | [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | Execution of SQL basics including data table creation and querying. | SQL |
 | [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | Creation of various visualizations, compiled into a Tableau dashboard, using an HR Employees excel dataset. | Tableau Desktop & Tableau Public |
-
-## Contact
-kgolden@zagmail.gonzaga.edu
