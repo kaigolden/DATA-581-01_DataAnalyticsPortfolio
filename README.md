@@ -12,7 +12,7 @@ Graduate student in Gonzaga University's MSDS program.
 - Data Visualization and Data Storytelling
   
 # Projects
-Below is a table of what's in this repository: each row contains a link to each project folder along with a project description.
+Below is a table of what's in this repository: each row contains a link to each project folder along with the project description.
 
 | Project | Project Overview | Tools |
 | --- | --- | --- |
