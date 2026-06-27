@@ -21,5 +21,5 @@ Below is a table of what's in this repository: each row contains a link to each 
 | --- | --- | --- |
 | [Power BI](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI) | Creation of various visualizations, compiled into a Power BI dashboard, using an HR Employees excel dataset.  | Power BI App|
 | [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | Exploratory data analysis of the Palmer Penguins dataset, containing visualizations and a full technical report. | Python, Pandas, Seaborn |
-| [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | Writing and execution of SQL basics, including database table creation and querying. | SQL, sqliteonline, and a code editor |
+| [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | Writing and execution of SQL basics, including database table creation and basic querying. | SQL, sqliteonline, and a code editor |
 | [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | Creation of various visualizations, compiled into a Tableau dashboard, using an HR Employees excel dataset. | Tableau Desktop and Tableau Public |
