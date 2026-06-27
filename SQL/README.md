@@ -16,5 +16,6 @@ The purpose of this project is to build foundational SQL skills by practicing co
 - [sqliteonline](https://sqliteonline.com/)
 
 ## Steps
+Note: table creation and population must occur before any query execution.
 1. Create table and populate it using the SQL_table_creation.sql file.
 2. Execute basic queries using the SQL_queries.sql file.
