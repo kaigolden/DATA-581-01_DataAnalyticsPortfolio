@@ -1,5 +1,5 @@
 # DS581_DataAnalyticsPortfolio
-This repository is a portfolio of data analytics projects developed during one of my graduate-level courses in the Master's of Science in Data Science (MSDS) program at Gonzaga University. Each project lives in its own folder containing its own data, code, and write up. Python, Power BI, Tableau, and SQL are used, with an emphasis on data visualization and data storytelling. 
+This repository is a portfolio of four data analytics projects developed during one of my graduate-level courses in the Master's of Science in Data Science (MSDS) program at Gonzaga University. Each project lives in its own folder containing its own data, code, and write up. Python, Power BI, Tableau, and SQL are used, with an emphasis on data visualization and data storytelling. 
 
 # Kaili Golden
 Graduate student in Gonzaga University's MSDS program. 
