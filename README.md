@@ -12,11 +12,11 @@ Graduate student in Gonzaga University's MSDS program.
 - Data Visualization and Data Storytelling
   
 # Projects
-Below is a table of what's in the repository: it contains a link to each folder along with a description of each project's problem and approach.
+Below is a table of what's in this repository: each row contains a link to each project folder along with a project description.
 
 | Project | Project Overview | Tools |
 | --- | --- | --- |
-| [Power BI](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI) | desc of project | Power BI App|
-| [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | desc of project | Python, Panda, Seaborn |
-| [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | desc of project | SQL |
-| [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | desc of project | Tableau Desktop & Tableau Public |
+| [Power BI](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/PowerBI) | Creation of various visualizations, compiled into a Power BI dashboard, using an HR Employees excel dataset.  | Power BI App|
+| [Python EDA](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Python) | Exploratory data analysis of the Palmer Penguins dataset, containing visualizations and a full technical report. | Python, Panda, Seaborn |
+| [SQL](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/SQL) | Execution of SQL basics including data table creation and querying. | SQL |
+| [Tableau](https://github.com/kaigolden/DATA-581-01_DataAnalyticsPortfolio/tree/main/Tableau) | Creation of various visualizations, compiled into a Tableau dashboard, using an HR Employees excel dataset. | Tableau Desktop & Tableau Public |
