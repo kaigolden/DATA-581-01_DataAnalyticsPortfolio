@@ -9,6 +9,8 @@ kgolden@zagmail.gonzaga.edu
 
 ## Skills
 - Python
+- Markdown
+- Jupyter notebook
 - SQL
 - Power BI
 - Tableau
