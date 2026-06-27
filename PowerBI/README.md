@@ -8,6 +8,7 @@ Use HR Employees dataset to create various EDA visualizations in the Power BI ap
 - HR Employees .xlsx dataset
 - A link to a visualizations dashboard on the Power BI app.
   1. ** Note: an account is needed to view the dashboard.
+- A dashboard storytelling
 
 ## Dataset
 HR_Employees.xlsx
